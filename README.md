@@ -24,7 +24,7 @@ I compiled this list when transitioning out of academia into industry. My backgr
 ## Deep Learning
 * [Goodfellow/Bengio/Courville](http://www.deeplearningbook.org) (free) for theory
 * Google’s  (short) [Tensorflow course on Udacity](https://www.udacity.com/course/deep-learning--ud730) (free)
-* [Hands on ML (Part I)](http://shop.oreilly.com/product/0636920052289.do) for implementation in using TensorFlow in Python
+* [Hands on ML (Part II)](http://shop.oreilly.com/product/0636920052289.do) for implementation in using TensorFlow in Python
 
 ## Visualization
 * The classic for theory: [The Visual Display of Quantitative Information](https://www.amazon.com/Visual-Display-Quantitative-Information/dp/1930824130)
