@@ -42,4 +42,4 @@ I compiled this list when transitioning out of academia into industry. My backgr
     * [Machine Learning: A Probabilistic Perspective](https://mitpress.mit.edu/books/machine-learning-0)
 * Online courses
     * [Andrew Ng's Machine Learning course on Coursera](https://www.coursera.org/learn/machine-learning)
-    * [MIT 6.00.1] (https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-11) (EdX) for basic CS concepts with exercises in Python
+    * [MIT 6.00.1](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-11) (EdX) for basic CS concepts with exercises in Python
