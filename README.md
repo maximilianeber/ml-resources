@@ -11,12 +11,12 @@ I compiled this list when transitioning out of academia into industry. My backgr
 ## Improving your coding skills
 * Python
     * Data manipulation: [Python for Data Analysis](http://wesmckinney.com/pages/book.html)
-    * Fundamentals: [Learn Python the hard way](https://learnpythonthehardway.org) (free)
-    * Important libraries: `numpy`, `pandas`, `seaborn`, `scikit-learn`, `keras`, `tensorflow`
+    * Fundamentals: [Learn Python the hard way](https://learnpythonthehardway.org) (free) 
+    * Important libraries: `numpy`, `pandas`, `seaborn`, `scikit-learn`, `keras`, `tensorflow`
 * R
     * Data manipulation and visualization: [R for Data Science](http://r4ds.had.co.nz) (free)
-    * Fundamentals: [Advanced R](http://adv-r.had.co.nz), [Writing R Packages](http://r-pkgs.had.co.nz) (free)
-    * Important libraries: `dplyr`, `ggplot2`, `tidyr`, `gbm`, `xgboost`
+    * Fundamentals: [Advanced R](http://adv-r.had.co.nz), [Writing R Packages](http://r-pkgs.had.co.nz) (free) 
+    * Important libraries: `dplyr`, `ggplot2`, `tidyr`, `gbm`, `xgboost`
 * Version control
     * [Happy git with R](http://happygitwithr.com) (free)
     * GitHub is your friend!
